@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>xadrez_Console</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\Reuniao\Desktop\ProjetodeXadrez\PartidaDeXadrez.cs" Link="PartidaDeXadrez.cs" />
+  </ItemGroup>
+
+</Project>
